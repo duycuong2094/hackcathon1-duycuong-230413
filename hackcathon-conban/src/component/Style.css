@@ -1,0 +1,41 @@
+button{
+    background-color: blue;
+}
+
+.container{
+    display: flex;
+    margin-left: 10%;
+    width: 80%;
+}
+.contactInfo input{
+    margin-bottom: 60px;
+    background-color: transparent;
+    border: none;
+    border-bottom: 1px solid white;
+    width: 80%;
+
+}
+.contactInfo{
+    width: 40%;
+    background-color: rgb(33, 33, 85);
+    color: white;
+
+}
+.contactUs{
+    width: 100%;
+    background-color: aqua;
+}
+.contactUs input{
+    width: 60%;
+    margin-top: 30px;
+}
+textarea{
+    width: 80%;
+    height: 50px;
+    margin-top: 30px;
+}
+button{
+    width: 100px;
+    color: white;
+    height: 35px;
+}
